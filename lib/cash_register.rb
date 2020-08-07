@@ -30,3 +30,7 @@ class CashRegister #CREATE CLASS CashRegister
   end
 
 end
+
+
+##returns the total to 0.0 if all items have been removed
+##where does this happen?
